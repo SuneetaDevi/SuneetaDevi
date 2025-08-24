@@ -1,7 +1,7 @@
-# Hi 👋, I'm [Your Name]  
+# Hi 👋, I'm Suneeta Devi 
 🚀 Software Engineer | 🌐 Open Source Contributor | 💡 Tech Enthusiast  
 
-![Banner](https://your-image-link.com/banner.png)
+![Banner](https://github.com/SuneetaDevi/SuneetaDevi/issues/1#issue-3349767698)
 
 ---
 
