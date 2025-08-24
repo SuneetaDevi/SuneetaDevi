@@ -1,7 +1,7 @@
 # Hi 👋, I'm Suneeta Devi 
 🚀 Software Engineer | 🌐 Open Source Contributor | 💡 Tech Enthusiast  
 
-![Banner](https://private-user-images.githubusercontent.com/64021031/481401262-827c97bc-f7ea-43b4-89f1-200a05d055b5.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTYwNTk2NjYsIm5iZiI6MTc1NjA1OTM2NiwicGF0aCI6Ii82NDAyMTAzMS80ODE0MDEyNjItODI3Yzk3YmMtZjdlYS00M2I0LTg5ZjEtMjAwYTA1ZDA1NWI1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODI0VDE4MTYwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIzZTJhZmZhYzM4NGNiZjdiOWI2Mjc0NTJmYzExYmY0MDc0NmRkMDU3ZGJkNDM5ZTk2MmRhNzBiMTA0N2VlMzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.sAcO0InqE8JBSsTDxAX-EW3gFqJxM3_xYQ1zvtJmof8)
+![Banner](<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6a3140a5-8613-42c4-8bc7-c2bf4037e679" />)
 
 ---
 
