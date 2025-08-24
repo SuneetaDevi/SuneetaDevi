@@ -28,9 +28,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SuneetaDevi&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuneetaDevi&layout=compact&theme=radical)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=SuneetaDevi&theme=radical)](https://git.io/streak-stats)
 
 ---
