@@ -6,7 +6,9 @@
 ---
 
 ## 👨‍💻 About Me
-🎓 I’m a passionate **Software Engineer** always eager to learn and contribute.  
+I am a dedicated **Software Engineer** with 3 years of experience in **full-stack development**, spanning frontend, backend, testing, and project management. My approach is simple: I treat every project as if it were my own. I believe in writing clean, efficient, and scalable code while keeping business goals in mind. Whether it’s building new solutions, improving existing systems, or solving complex technical challenges, I stay fully committed until the problem is solved. My goal is not just to deliver software, but to deliver **value, reliability, and long-term impact** for clients and employers who trust me with their projects.  
+
+🎓 Passionate **Software Engineer** always eager to learn and contribute.  
 💡 Interested in **AI, Machine Learning, Web Development, and Open Source**.  
 🌱 Currently exploring **Cloud Computing & DevOps**.  
 💬 Ask me about **Python, Java, and JavaScript**.  
