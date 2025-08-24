@@ -1,7 +1,7 @@
 # Hi 👋, I'm Suneeta Devi 
 🚀 Software Engineer | 🌐 Open Source Contributor | 💡 Tech Enthusiast  
 
-![Banner](<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6a3140a5-8613-42c4-8bc7-c2bf4037e679" />)
+![Banner](https://github.com/user-attachments/assets/6a3140a5-8613-42c4-8bc7-c2bf4037e679)
 
 ---
 
