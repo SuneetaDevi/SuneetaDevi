@@ -29,17 +29,16 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SuneetaDevi&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuneetaDevi&layout=compact&theme=radical)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=SuneetaDevi&theme=radical)](https://git.io/streak-stats)
 
 ---
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio-link.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_PROFILE)  
+[![LinkedIn](https://www.linkedin.com/in/suneeta-devi-031a4119a/)  
+[![Portfolio](https://suneeta-portfolio.netlify.app/)  
 
 ---
 
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐️ From [SuneetaDevi](https://github.com/SuneetaDevi)
