@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Front+End+Developer+(React+%2B+TypeScript);Full+Stack+%7C+Node.js+%7C+AWS;5+years+building+fintech+%26+enterprise+web+apps;Open+to+remote+roles+worldwide" alt="Typing SVG" />
 </a>
 
-![Banner](https://github.com/user-attachments/assets/6a3140a5-8613-42c4-8bc7-c2bf4037e679)
+![Banner](<img width="2560" height="800" alt="GitHub banner 1280×400" src="https://github.com/user-attachments/assets/22d3d919-55c7-4373-aa4a-ae853db7759f" />)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://suneeta-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suneeta-devi-031a4119a/)
