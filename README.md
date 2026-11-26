@@ -107,7 +107,7 @@ I treat every project like it's my own: clean code, clear communication, and sta
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=SuneetaDevi&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuneetaDevi&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top languages" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SuneetaDevi&theme=radical&hide_border=true&v=2)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SuneetaDevi&theme=radical&hide_border=true&v=3)](https://git.io/streak-stats)
 
 </div>
 
